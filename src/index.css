@@ -149,6 +149,10 @@ header p {
   background-color: #d7fcf8;
 }
 
+.lose {
+  background-color: #fcd9d7;
+}
+
 .result-modal[open] {
   animation: slide-in-from-top 0.35s ease-out;
 }
